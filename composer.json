@@ -1,0 +1,13 @@
+{
+    "name": "malu/act_flow",
+    "type": "project",
+    "authors": [
+        {
+            "name": "malu",
+            "email": "malu@malu.me"
+        }
+    ],
+    "require": {
+        "predis/predis": "^1.1"
+    }
+}
