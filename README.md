@@ -1,6 +1,12 @@
 # ActFlow
 通过手机遥控大屏-服务端
 
+# Install
+
+    composer install
+
+# Use
+
 ## 大屏端
 
 轮询URL：
